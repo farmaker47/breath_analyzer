@@ -1,2 +1,3 @@
-# breath_analyzer
-Breath analyser wit an ESP32.
+# Breath analyzer
+
+Breath analyser with an ESP32.
